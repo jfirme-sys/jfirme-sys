@@ -6,7 +6,7 @@
 
 Here are some specs about me:
 
-💻 Front-end developer Html, Css and Js
-📚 Studying and building things with ReactJS
-📫 Anything, send me an e-mail: julianofirme23@gmail.com
-📟 Or discord me: juliano#8578
+💻 Front-end developer Html, Css and Js <br>
+📚 Studying and building things with ReactJS <br>
+📫 Anything, send me an e-mail: julianofirme23@gmail.com <br>
+📟 Or discord me: juliano#8578 <br>
