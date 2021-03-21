@@ -4,9 +4,9 @@
 ![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![NodeJs](https://img.shields.io/badge/node%20-39933.svg?&style=for-the-badge&logo=node.js&logoColor=black)
 
-Here are some specs about me:
+Algumas coisas sobre mim:
 
-💻 Front-end developer Html, Css and Js <br>
-📚 Studying and building things with ReactJs and NodeJs<br>
-📫 Anything, send me an e-mail: julianofirme23@gmail.com <br>
-📟 Or discord me: juliano#8578 <br>
+💻 Desenvolvedor Front-end Html, Css and Js <br>
+📚 Estudando e criando coisas com ReactJs e NodeJs<br>
+📫 Quer entrar em contato comigo? Meu email: julianofirme23@gmail.com <br>
+📟 Ou se preferir pelo discord: juliano#8578 <br>
