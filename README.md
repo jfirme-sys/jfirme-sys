@@ -1,4 +1,4 @@
-<h2> Welcome to my profile / Bem vindo ao meu perfil </h2>
+<h2> Bem vindo ao meu perfil </h2>
 
 ![Aprendendo no momento:](https://img.shields.io/badge/to%20learn:%20-%23000.svg?&style=for-the-badge)
 ![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
