@@ -13,5 +13,5 @@ Algumas coisas sobre mim:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfirme-sys&layout=compact)](https://github.com/jfirme-sys/github-readme-stats)
+
 
