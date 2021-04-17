@@ -12,7 +12,6 @@ Algumas coisas sobre mim:
 📟 Ou se preferir pelo discord: juliano#8578 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfirme-sys&layout=compact)](https://github.com/jfirme-sys/github-readme-stats)
 
 
 
