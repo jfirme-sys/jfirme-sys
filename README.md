@@ -6,7 +6,12 @@
 
 Algumas coisas sobre mim:
 
-💻 Desenvolvedor Front-end Html, Css and Js <br>
+💻 Desenvolvedor Front-end <br>
 📚 Estudando e criando coisas com ReactJs e NodeJs<br>
 📫 Quer entrar em contato comigo? Meu email: julianofirme23@gmail.com <br>
 📟 Ou se preferir pelo discord: juliano#8578 <br>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfirme-sys&layout=compact)](https://github.com/jfirme-sys/github-readme-stats)
+
