@@ -8,7 +8,7 @@
 Algumas coisas sobre mim:
 
 💻 Desenvolvedor Front-end <br>
-📚 ReactJS, Typescript and Next.js<br>
+📚 Apaixonado por ReactJS, Typescript e Next.js<br>
 📫 Quer entrar em contato comigo? Meu email: julianofirme23@gmail.com <br>
 📟 Ou se preferir pelo discord: juliano#8578 <br>
 
