@@ -1,4 +1,8 @@
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+
 <h2> Bem vindo ao meu perfil </h2>
+
+
 
 ![Aprendendo no momento:](https://img.shields.io/badge/to%20learn:%20-%23000.svg?&style=for-the-badge)
 ![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
@@ -13,6 +17,7 @@ Algumas coisas sobre mim:
 📟 Ou se preferir pelo discord: juliano#8578 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfirme-sys&layout=compact)](https://github.com/jfirme-sys/github-readme-stats)
+
 
 
 
