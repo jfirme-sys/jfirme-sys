@@ -14,6 +14,7 @@ Algumas coisas sobre mim:
 💻 Desenvolvedor Front-end <br>
 📚 Apaixonado por ReactJS, Typescript e Next.js<br>
 📫 Quer entrar em contato comigo? Meu email: julianofirme23@gmail.com <br>
+💼 Meu LinkedIn: https://www.linkedin.com/in/juilano-asfirme/ <br>
 📟 Ou se preferir pelo discord: juliano#8578 <br>
 
 
