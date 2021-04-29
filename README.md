@@ -13,7 +13,7 @@
 
 Algumas coisas sobre mim:
 
-💻 Desenvolvedor Front-end, me tornando Fullstack <br>
+💻 Desenvolvedor na stack do JS<br>
 📚 Apaixonado por Typescript e Next.js<br>
 📫 Quer entrar em contato comigo? Meu email: julianofirme23@gmail.com <br>
 💼 Meu LinkedIn: https://www.linkedin.com/in/juilano-asfirme/ <br>
